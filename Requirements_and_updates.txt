@@ -1,0 +1,16 @@
+Navigation diagram
+Home page:1.Nav bar
+          2.content
+Login page:1.Nav bar
+           2.authontification
+           3.registration page
+search page:1.
+Detail page
+Porduct/Service Mangement page
+User account management page
+About us page
+Public needs: 1. nav bar
+              2.comments and code structure
+              3.sematic elements
+              4.css
+              5.File no up to 50MB
